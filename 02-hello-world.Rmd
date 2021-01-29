@@ -1,0 +1,73 @@
+# (PART) Course content {.unnumbered}
+
+# Hello world {#hello-world}
+
+In this first application, we conduct our first data visualization.
+
+::: {.rstudio-cloud}
+The RStudio Cloud workspace for your course is provided in your [Moodle-Course](https://e-learning.hdm-stuttgart.de/moodle/login/index.php).
+You have to join the workspace to use the sample application exercises.
+:::
+
+## Slides and application exercises
+
+::: {.slide-deck}
+**Unit 1 - Deck 1: Welcome**
+
+::: {.slides}
+[Slides](https://kirenz.github.io/data-science/course-materials/slides/u1-d01-welcome/u1-d01-welcome.html#1)
+:::
+:::
+
+::: {.application-exercise}
+**First dataviz**
+
+> **Option 1 - UN Votes**
+>
+> ::: {.source}
+> [Source](https://github.com/kirenz/data-science/tree/master/course-materials/application-exercises/ae-01a-un-votes/unvotes.Rmd)
+> :::
+
+> **Option 2 - COVID-19**
+>
+> ::: {.source}
+> [Source](https://github.com/kirenz/data-science/tree/master/course-materials/application-exercises/ae-01b-covid/covid.Rmd)
+> :::
+:::
+
+::: {.slide-deck}
+**Unit 1 - Deck 2: Meet the toolkit - Programming**
+
+::: {.slides}
+[Slides](https://kirenz.github.io/data-science/course-materials/slides/u1-d02-toolkit-r/u1-d02-toolkit-r.html#1)
+:::
+
+::: {.source}
+[Source](https://github.com/kirenz/data-science/tree/master/course-materials/slides/u1-d02-toolkit-r)
+:::
+
+::: {.reading}
+-   R4DS :: [Chp 2 - Introduction](https://r4ds.had.co.nz/explore-intro.html)
+-   IMS :: [Sec 1.1 & 1.2 - Case study & Data basics](https://openintro-ims.netlify.app/getting-started-with-data.html#basic-stents-strokes)
+:::
+:::
+
+::: {.application-exercise}
+**Bechdel + R Markdown**
+
+::: {.source}
+[Source](https://github.com/kirenz/data-science/tree/master/course-materials/application-exercises/ae-02-bechdel-rmarkdown)
+:::
+:::
+
+::: {.slide-deck}
+**Unit 1 - Deck 3: Meet the toolkit - Version control and collaboration**
+
+::: {.slides}
+[Slides](https://kirenz.github.io/data-science/course-materials/slides/u1-d03-toolkit-git/u1-d03-toolkit-git.html#1)
+:::
+
+::: {.source}
+[Source](https://github.com/kirenz/data-science/tree/master/course-materials/slides/u1-d03-toolkit-git)
+:::
+:::
