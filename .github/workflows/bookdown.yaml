@@ -38,7 +38,8 @@ jobs:
 
       - name: Install packages
         run: |
-          R -e 'install.packages("renv")'
+          R -e 'install.packages(c("renv", "downlit", "xml2", "remotes")'
+          R -e 'remotes::install_github("rstudio/bslib")'
           R -e 'renv::restore()'
 
       - name: Build site
