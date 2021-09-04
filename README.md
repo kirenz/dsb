@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0c6ad312-71ca-46d8-a89e-8e2dde5d2049/deploy-status)](https://app.netlify.com/sites/datascience-course/deploys)
 
-## Introduction to Data Science
+## Introduction to Data Science with R
 
 This repository contains the core content of a data science course which focuses on 
 
